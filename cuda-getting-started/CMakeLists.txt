@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.1)
+cmake_minimum_required(VERSION 3.10)
 project(cis565_getting_started)
 
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
