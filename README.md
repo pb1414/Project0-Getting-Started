@@ -12,8 +12,8 @@ Project 0 Getting Started
 
 2.1.3 NSight debugging
 
-<img width="1268" height="276" alt="Screenshot 2025-12-14 223133" src="https://github.com/user-attachments/assets/497391d8-71c0-46be-aa80-21f17892942e" />
-<img width="762" height="86" alt="Screenshot 2025-12-14 223219" src="https://github.com/user-attachments/assets/dd63584d-0381-4d7a-85bf-d402ab661e07" />
+<img src="https://github.com/user-attachments/assets/497391d8-71c0-46be-aa80-21f17892942e" width="700" />
+<img src="https://github.com/user-attachments/assets/dd63584d-0381-4d7a-85bf-d402ab661e07" width="700" />
 
 
 2.1.4 NSight systems
@@ -21,8 +21,7 @@ Project 0 Getting Started
 (May not be capturing processes correctly.
 Had to run as administrator for NSight Systems and the exe.)
 
-<img width="1049" height="414" alt="Screenshot 2025-12-14 224310" src="https://github.com/user-attachments/assets/cc399ff9-d981-40aa-be9f-cf9d41cf8750" />
-
+<img src="https://github.com/user-attachments/assets/cc399ff9-d981-40aa-be9f-cf9d41cf8750" width="700" />
 
 2.1.5
 
@@ -34,5 +33,5 @@ Supported.
 
 
 2.3
-<img width="1360" height="977" alt="image" src="https://github.com/user-attachments/assets/a3094010-7938-42c3-8025-caba517ed684" />
 
+<img src="https://github.com/user-attachments/assets/a3094010-7938-42c3-8025-caba517ed684" width="700" />
