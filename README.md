@@ -26,4 +26,13 @@ Had to run as administrator for NSight Systems and the exe.)
 
 2.1.5
 
-Also not really working
+Not working.
+
+2.2
+
+Supported.
+
+
+2.3
+<img width="1360" height="977" alt="image" src="https://github.com/user-attachments/assets/a3094010-7938-42c3-8025-caba517ed684" />
+
